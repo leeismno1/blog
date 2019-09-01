@@ -1,5 +1,4 @@
 #!/Users/leewhite/Desktop/Python/Blog/djangogirls/myvenv/bin/python3
-
 # -*- coding: utf-8 -*-
 import re
 import sys
