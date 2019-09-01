@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '6owc=lxqzhqxydfy2x&#suoulb$6%qu+hnq0+2(##3w5ckhl*@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['leesdjangoblog.herokuapp.com']
 
